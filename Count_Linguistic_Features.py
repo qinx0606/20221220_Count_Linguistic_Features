@@ -927,8 +927,19 @@ st.write("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
 st.write("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
 st.write("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
 st.write("------------")
+
+# st.markdown("""
+# ###### 　作成者：
+# - **徐　勤  (大阪大学 言語文化研究科言語文化専攻)**
+# - 公開日：2022年9月5日
+# """)
+
 st.markdown("""
-###### 　作成者：
-- **徐　勤  (大阪大学 言語文化研究科言語文化専攻)**
-- 公開日：2022年9月5日
+######
+- **作成者：徐　勤 (大阪大学言語文化研究科)**
+- **構築日：2022.03**
+- **謝　辞：本プロジェクトは，JST 次世代研究者挑戦的研究プログラム JPMJSP2138 の支援を受けたものである（支援期間：2021.10.01-2023.03.31）。**
+
 """)
+## st.write(f'<span style="color:black;font-size:12px">謝　辞：本プロジェクトは，JST 次世代研究者挑戦的研究プログラム JPMJSP2138 の支援を受けたものである（支援期間：2021.10.01-2023.03.31）。</span>',unsafe_allow_html=True)
+
